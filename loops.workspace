@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="loops" Database="loops-rnmuk.tags" Version="10000">
+  <Project Name="loops" Path="loops/loops.project" Active="No"/>
+  <Project Name="loop2" Path="loop2/loop2.project" Active="Yes"/>
+  <Project Name="loop3" Path="loop3/loop3.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="loops" ConfigName="Debug"/>
+      <Project Name="loop2" ConfigName="Debug"/>
+      <Project Name="loop3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="loops" ConfigName="Release"/>
+      <Project Name="loop2" ConfigName="Release"/>
+      <Project Name="loop3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
